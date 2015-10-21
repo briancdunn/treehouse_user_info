@@ -1,0 +1,1 @@
+Prints badges and JavaScript points of Treehouse users entered as console arguments.
